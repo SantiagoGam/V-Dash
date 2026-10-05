@@ -137,4 +137,5 @@ Después de editar, vuelve a pulsar **Run**.
 
 ## 📝 Nota
 
-Proyecto personal, sin fines de lucro, construido con prompt engineering y *vibe coding*.
+Proyecto personal, sin fines de lucro.
+
